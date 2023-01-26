@@ -4,5 +4,4 @@
 - fxdx/webapp/avatar
 
 # DESCRIPTION
-- Detailed description of the problem 
-
+- Detailed description of the problem or some images
