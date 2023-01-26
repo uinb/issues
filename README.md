@@ -1,8 +1,8 @@
 # issues
 
 - TYPE 
--- fxdx/webapp/avatar
+- fxdx/webapp/avatar
 
-- Description
--- Detailed description of the problem 
+- DESCRIPTION
+- Detailed description of the problem 
 
